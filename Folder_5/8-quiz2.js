@@ -12,18 +12,32 @@ Write JavaScript below that logs:
     --> should log a list of nodes with a length of 3
 */
 
+console.log(document.querySelectorAll('p'))
+console.log(document.querySelector('div'))
+console.log(document.querySelector('#jumbotron-text'))
+console.log(document.querySelectorAll('.primary-conyent p'))
 
-// const allPara  = document.getElementsByTagName('p')
-// console.log(allPara)
 
-// const firstDiv = document.querySelector('div')
-// console.log(firstDiv)
 
-// const jumbotron = document.getElementById('jumbotron-text')
-// console.log(jumbotron)
 
-// const allPInsideClass = document.querySelectorAll('.primary-content p')
-// console.log(allPInsideClass)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
